@@ -1,0 +1,6 @@
+{
+  "name": "Push_swap - 42 Sorting Project",
+  "description": "42 School Push_swap implementation compliant with the Norm, featuring all required strategies: Simple O(n^2), Medium O(n√n), Complex O(n log n), Adaptive, and benchmark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
